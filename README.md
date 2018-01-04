@@ -419,9 +419,5 @@ public class ClassScannerConfigurer implements InitializingBean, ApplicationCont
 
 此方案供学习，也提供一种思路让大家思考。如文中有bug，可以联系我。如有更好的方案，也联系我。如觉得不错想打赏，非常感谢。
 
-![微信打赏](https://github.com/018/me/raw/master/res/wechat_pay.png)
-
-![支付宝打赏](https://github.com/018/me/raw/master/res/ali_pay.png)
-
-![扫码加我](https://github.com/018/me/raw/master/res/wechat.png)
+![二维码](https://github.com/018/me/raw/master/res/qr.png)
 
